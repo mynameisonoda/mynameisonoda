@@ -20,8 +20,8 @@
 
 ### Let's Connect!
 
-- **GitHub:** [Your GitHub Profile URL]
-- **LinkedIn:** [[Your LinkedIn Profile URL]](https://www.linkedin.com/in/tyleronodera/)
+- [**GitHub**] (https://github.com/mynameisonoda)
+- [**LinkedIn**](https://www.linkedin.com/in/tyleronodera/)
 
 ---
 
