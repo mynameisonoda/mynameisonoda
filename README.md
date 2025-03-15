@@ -1,9 +1,28 @@
-- 👋 Hi, I’m Tyler Onodera!
-- 👀 I’m interested in web development. My favorite tools are React and Tailwind :D
-- 🌱 I’m currently honing my visual skills (I literally sweat over a few pixels, summers can be a wild development experience for me)
-- 💞️ I’m looking for a role as a system engineer or a solutions architect
+# Hi there, I'm Tyler! 👋
 
-<!---
-mynameisonoda/mynameisonoda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Location:** Bay Area, California
+
+**Profession:** Solutions Architect [oai_citation_attribution:0‡GitHub](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+
+---
+
+### About Me
+
+- **Web Development Enthusiast:** I enjoy building and optimizing web applications during my free time.
+
+- **AI Engineering Hobbyist:** Exploring artificial intelligence and machine learning technologies is a passion of mine.
+
+- **Avid Reader:** I love delving into literary fiction and nonfiction works.
+
+- **Music Lover:** Listening to a diverse range of albums is one of my favorite pastimes.
+
+---
+
+### Let's Connect!
+
+- **GitHub:** [Your GitHub Profile URL]
+- **LinkedIn:** [[Your LinkedIn Profile URL]](https://www.linkedin.com/in/tyleronodera/)
+
+---
+
+*Feel free to reach out if you'd like to collaborate on projects or discuss shared interests!*
